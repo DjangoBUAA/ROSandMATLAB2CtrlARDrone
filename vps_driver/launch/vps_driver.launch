@@ -1,0 +1,4 @@
+<launch>
+	<!-- Launches the visual positioning system driver -->
+	<node name="vps_driver_node" pkg="vps_driver" type="vps_driver_node" required="true"/>
+</launch>
