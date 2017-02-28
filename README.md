@@ -1,6 +1,6 @@
 # ROSandMATLAB2CtrlARDrone
 
-This project aims to use ROS and Matlab to control ARDrone. 
+This project aims to use ROS and Matlab to control ARDrone. And you sould use it in MATLAB R2015b in Ubuntu 14.04.
 
 1、In ROS, there are three nodes:ardrone_autonomy,ardrone_tutorials and vps_driver.
 （1）ardrone_autonomy: communicate with ardrone,get the state information of ardrone and send control command to ardrone (C++);
